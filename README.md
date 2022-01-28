@@ -7,6 +7,6 @@ A personal portfolio of my background, work, and volunteer experience, showcasin
 * HTML
 * CSS
 
-### Check out the live site here: [baburaj.ml](https://baburaj.ml)
+### Check out the live site here: [https://baburajr.github.io/portfolio](https://baburajr.github.io/portfolio)
 
 Header images from <a href="https://undraw.co/">unDraw</a>
