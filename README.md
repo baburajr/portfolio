@@ -6,6 +6,7 @@ A personal portfolio of my background, work, and volunteer experience, showcasin
 ## Technologies Utilized
 * HTML
 * CSS
+* Javascript
 
 ### Check out the live site here: [https://baburajr.github.io/portfolio](https://baburajr.github.io/portfolio)
 
